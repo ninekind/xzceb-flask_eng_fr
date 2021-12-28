@@ -1,5 +1,5 @@
 ---
 applications:
- - name: ibmlearner_translation_app
+ - name: My FRE2ENG Service
    random-random: true
    memory: 64M
